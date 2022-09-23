@@ -1,5 +1,15 @@
-### Hi there 👋
+<!-- header image here -->
+### Hello Friends! I'm Erin. 👋
+:aquarius: aquarian | :tada: 27 | :womens: she/her | :art: artist | :pray: yogi | :rainbow: ally 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&redirect=true)
+
+
+## My Projects
+
+## Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+          
 <!--
 **Lunarang/lunarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
