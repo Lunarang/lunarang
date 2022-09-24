@@ -5,13 +5,14 @@
 
 
 ## My Projects :sparkles:
-:clipboard: <b>PT MGMT</b> - Repo | Demo | Blog
+:clipboard: <b>PT MGMT</b> - [Repo](https://github.com/Lunarang/ptmgmt) | Demo | [Blog](https://codebaby.hashnode.dev/my-first-reactredux-project-ptmgmt)
 A lightweight information tracker application for the management and overview of personal injury patients’ treatment plans, including imaging, referrals to specialists, and attorney details.
 
-:coffee: <b>VarieTea</b> - Repo | Demo | Blog
+:coffee: <b>VarieTea</b> - [Repo](https://github.com/Lunarang/VarieTea) | [Demo](https://vimeo.com/702151475) | [Blog](https://codebaby.hashnode.dev/my-first-rails-project-varietea)
 A social media application designed to allow users to create, save, taste, and share their favorite teas.
 
-:fire: <b>StretchWork</b> - Repo | Demo | Blog
+###![icons8-women-stretching-50](https://user-images.githubusercontent.com/63659148/192081094-334698fd-01bc-411c-b28b-bb499de68fd8.png) StretchWork
+[Repo](https://github.com/Lunarang/Stretchwork) | [Demo](https://vimeo.com/717173421) | [Blog](https://codebaby.hashnode.dev/my-first-javascript-project-stretchwork)
 A Single Page Application (SPA) that allows the user to create custom stretch routines from a database of muscles and associated stretches.
 
 ## Contact Me :sparkles:
