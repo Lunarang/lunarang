@@ -1,8 +1,16 @@
 ![Banner2](https://user-images.githubusercontent.com/63659148/192080316-80ee54fe-476c-4439-b85d-17a949a2ffe6.png)
+# Nice To Meet You :sparkles:
+I have evolved from an artist to chiropractic assistant to software engineer residing in the fabulous Las Vegas area. Twice I moved here for the sake of love, because my mother firmly instilled in me the belief that you should always follow your heart. While this is not always the most pragmatic advice, I wouldn't be here learning how to program if I didn't choose to live by it!  
 
+🔭 <b>I’m currently working on</b> a social media app for tea.  
+🌱 <b>I’m currently learning</b> how to use React & React Native.
+👯 <b>I’m looking to collaborate on</b> projects for social or environmental good.  
+🤔 <b>I’m looking for help with</b> efficient use of CSS...  
+💬 <b>Ask me about</b> color theory!  
+⚡ <b>Fun fact:</b> I've been to Australia as a student ambassador.
+
+## My Music :sparkles:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&redirect=true)
-
-
 
 ## My Projects :sparkles:
 ![icons8-nurse-50](https://user-images.githubusercontent.com/63659148/192081428-89d42435-d22f-4877-a901-530f54c5818a.png)  
@@ -30,16 +38,3 @@
 
 ---
 <sub><a target="_blank" href="https://icons8.com/icon/108812/linkedin">Social</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
-
-<!--
-**Lunarang/lunarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
