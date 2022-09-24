@@ -3,7 +3,7 @@
 I have evolved from an artist to chiropractic assistant to software engineer residing in the fabulous Las Vegas area. Twice I moved here for the sake of love, because my mother firmly instilled in me the belief that you should always follow your heart. While this is not always the most pragmatic advice, I wouldn't be here learning how to program if I didn't choose to live by it!  
 
 🔭 <b>I’m currently working on</b> a social media app for tea.  
-🌱 <b>I’m currently learning</b> how to use React & React Native.
+🌱 <b>I’m currently learning</b> how to use React & React Native.  
 👯 <b>I’m looking to collaborate on</b> projects for social or environmental good.  
 🤔 <b>I’m looking for help with</b> efficient use of CSS...  
 💬 <b>Ask me about</b> color theory!  
