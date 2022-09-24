@@ -1,6 +1,4 @@
-<!-- header image here -->
-### Hello Friends! I'm Erin. 👋
-:aquarius: aquarian | :tada: 27 | :womens: she/her | :art: artist | :pray: yogi | :rainbow: ally 
+![Banner](https://user-images.githubusercontent.com/63659148/192079877-b253e645-d802-4908-88b2-e7980bae3178.png)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&cover_image=true&theme=default&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1212413380&redirect=true)
 
@@ -15,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" />
 
 ---
-<sub><a target="_blank" href="https://icons8.com/icon/108812/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
+<sub><a target="_blank" href="https://icons8.com/icon/108812/linkedin">Social</a> icons by <a target="_blank" href="https://icons8.com">Icons8</a></sub>
 
 <!--
 **Lunarang/lunarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
