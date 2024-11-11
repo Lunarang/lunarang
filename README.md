@@ -1,4 +1,4 @@
-![Banner2](https://user-images.githubusercontent.com/63659148/192080316-80ee54fe-476c-4439-b85d-17a949a2ffe6.png)
+![Banner2]()
 # Nice To Meet You :sparkles:
 I have evolved from an artist to chiropractic assistant to software engineer residing in the fabulous Las Vegas area. Twice I moved here for the sake of love, because my mother firmly instilled in me the belief that you should always follow your heart. While this is not always the most pragmatic advice, I wouldn't be here learning how to program if I didn't choose to live by it!  
 
